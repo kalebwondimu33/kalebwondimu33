@@ -1,11 +1,13 @@
-[![MasterHead]
-[(https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)]
+# MasterHead
 
-<h1 align="center">Hi 👋, I'm kaleb</h1>
-<h3 align="center">A software engineer student @Adama science and technology</h3>
+![Full Stack Development](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
+
+<h1 align="center">Hi 👋, I'm Kaleb</h1>
+<h3 align="center">A software engineering student @Adama Science and Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalebwondimu33&label=Profile%20views&color=0e75b6&style=flat" alt="kalebwondimu33" /> </p>
+
 
 - 📫 How to reach me **kalebwondimu33@gmail.com**
 
