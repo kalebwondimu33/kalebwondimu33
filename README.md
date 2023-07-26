@@ -1,4 +1,4 @@
-# MasterHead
+
 
 ![Full Stack Development](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
